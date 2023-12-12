@@ -16,5 +16,5 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 From the William Morris' typeface "Troy Type".  
 This font supports Adobe Latin 2 character set.
 
-ウィリアム・モリスがデザインした活字「トロイ活字」を元にしたフォントです。
+ウィリアム・モリスがデザインした活字「トロイ活字」を元にしたフォントです。  
 Adobe Latin 2 文字集合対応。
