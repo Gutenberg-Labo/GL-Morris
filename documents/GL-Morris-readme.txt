@@ -1,6 +1,6 @@
-GL-Morris: Adobe Western 2 character sets
+GL-Morris: Adobe Western 3 character sets
 
-(C)2017-2018 Gutenberg Labo (http://gutenberg.osdn.jp/), All rights reserved.
+(C)2017-2026 Gutenberg Labo (https://github.com/Gutenberg-Labo), All rights reserved.
 
 "Troy Type" designed by William Morris.
 Font made by Gutenberg Labo in 2017.
@@ -12,4 +12,4 @@ Font made by Gutenberg Labo in 2017.
 
 - About GL-Morris font
   GL-Morris is designed from "Troy Type" of William Morris.
-  This font has characters of Adobe Western 2 and some more glyphs.
+  This font has characters of Adobe Western 3 and some more glyphs.
