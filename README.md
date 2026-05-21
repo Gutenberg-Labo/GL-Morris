@@ -14,7 +14,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 <img src="https://github.com/Gutenberg-Labo/GL-Morris/blob/main/documents/GL-Morris.svg" width="95%" alt="GL-Morris - Open Source Font" />
 
 From the William Morris' typeface "Troy Type".  
-This font supports Adobe Latin 2 character set.
+This font supports Adobe Latin 3 character set.
 
 ウィリアム・モリスがデザインした活字「トロイ活字」を元にしたフォントです。  
-Adobe Latin 2 文字集合対応。
+Adobe Latin 3 文字集合対応。
